@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'capistrano-dgzwp'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ['Ricardo Perez']
   spec.email         = ['rperez@digizent.com']
   spec.description   = %q{DGZ Deployment tools and workflow for Capistrano 3.x}
