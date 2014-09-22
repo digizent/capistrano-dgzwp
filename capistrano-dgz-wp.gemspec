@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['rperez@digizent.com']
   spec.description   = %q{DGZ Deployment tools and workflow for Capistrano 3.x}
   spec.summary       = %q{DGZ Deployment tools and workflow for Capistrano 3.x}
-  spec.homepage      = 'https://github.com/digizent/capistrano-dgz-wp'
+  spec.homepage      = 'https://github.com/digizent/capistrano-dgzwp.git'
   spec.license       = ''
 
   spec.files         = `git ls-files`.split($/)
